@@ -44,7 +44,6 @@
 		29E942FA19FD290700ED5FA8 /* ic_star_half@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_star_half@2x.png"; sourceTree = "<group>"; };
 		29E942FB19FD290700ED5FA8 /* ic_star_red@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_star_red@2x.png"; sourceTree = "<group>"; };
 		29E942FD19FD290700ED5FA8 /* JSRatingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSRatingView.swift; sourceTree = "<group>"; };
-		29FCA3A219FE3FC5008D951B /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,7 +90,6 @@
 				29E942D919FD232E00ED5FA8 /* ViewController.swift */,
 				29E942F719FD28FF00ED5FA8 /* Main.storyboard */,
 				29E942DE19FD232E00ED5FA8 /* Images.xcassets */,
-				29FCA3A219FE3FC5008D951B /* MyPlayground.playground */,
 				29E942E019FD232E00ED5FA8 /* LaunchScreen.xib */,
 				29E942D519FD232E00ED5FA8 /* Supporting Files */,
 			);
