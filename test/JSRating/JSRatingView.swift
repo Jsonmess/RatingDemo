@@ -120,8 +120,16 @@ public class JSRatingView: UIImageView {
     
     private func calculateStarNumberByValue(number:Int,hasHalf:Bool)
     {
-        // 清除之前的分值
-        self.clearImageView();
+         var value = value;
+        if value <= 0{
+            // 清除之前的分值
+            self.clearImageView();
+            return;
+        }
+		if (value > 10.0)
+        {
+            value = 10.0;
+        }
         //设置新的值
         for (var i=0;i<number;i++)
         {
